@@ -1,0 +1,27 @@
+[
+ {
+  "name": "pepino",
+  "price": 8.45,
+  "id": "9aab1baa-b254-4a26-9d33-84b4e752fead"
+ },
+ {
+  "name": "tomate",
+  "price": 8.45,
+  "id": "f51e1728-5c9d-4162-920a-9639425221ec"
+ },
+ {
+  "name": "berinjela",
+  "price": 8.45,
+  "id": "57fdde5c-db9e-47db-b82a-835747d77f7e"
+ },
+ {
+  "name": "jiló",
+  "price": 8.45,
+  "id": "7a250c51-ec56-4cab-a0e9-32378638b1fc"
+ },
+ {
+  "name": "cenoura",
+  "price": 4.65,
+  "id": "ebdd8867-cb2a-4e3c-b856-41ddd42d1800"
+ }
+]

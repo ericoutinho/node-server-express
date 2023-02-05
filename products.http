@@ -1,0 +1,31 @@
+POST http://127.0.0.1:3000/products
+Content-type: application/json
+
+{
+    "name": "jiló",
+    "price": 8.45
+}
+
+###
+
+GET http://127.0.0.1:3000/products
+Content-Type: application/json
+
+###
+
+GET http://127.0.0.1:3000/products/f51e1728-5c9d-4162-920a-9639425221ec
+Content-Type: application/json
+
+###
+PUT http://127.0.0.1:3000/products/f51e1728-5c9d-4162-920a-9639425221ec
+Content-Type: application/json
+
+{
+    "name": "Abacaxi",
+    "price": null
+}
+
+###
+
+DELETE http://127.0.0.1:3000/products/f51e1728-5c9d-4162-920a-9639425221ec
+Content-Type: application/json
